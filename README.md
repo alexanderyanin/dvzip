@@ -1,2 +1,3 @@
-# dvzip
-DVZIP - shop for the search and sale of auto parts.
+# DVZIP
+
+Разработка сайта для магазина поиска и продажи автозапчастей.
